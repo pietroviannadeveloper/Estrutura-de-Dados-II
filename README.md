@@ -1,4 +1,4 @@
-# Estrutura-de-Dados-II
+
 # Estrutura de Dados II
 
 Repositório destinado às atividades e exercícios desenvolvidos na disciplina de **Estrutura de Dados II**.
