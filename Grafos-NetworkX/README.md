@@ -14,6 +14,11 @@ O exercício utiliza `NetworkX` para:
 6. remover a aresta Carla–Fernanda e verificar a conectividade;
 7. sugerir novas amizades com base em amigos em comum.
 
+
+## Visualização do grafo
+
+![Grafo da Rede Social](grafo_rede_social.svg)
+
 ## Conceitos
 
 - **Vértice:** representa um usuário.
