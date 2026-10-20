@@ -19,7 +19,7 @@ Este repositório reúne minhas atividades da disciplina de **Estrutura de Dados
 | :--- | :--- | :--- |
 | Participação | Relatório em PDF | [Abrir pasta](<Atividade De participação/>) |
 | Avaliativa 2 | Notebooks e relatórios, incluindo versões com Bubble e Quick Sort | [Abrir pasta](Atividade-Avaliativa-2/) |
-| **Avaliativa 3** | Comparação de quatro algoritmos em uma central de pedidos; código, relatório e dados | [Ver experimento](Atividade-Avaliativa-3/) |
+| **Avaliativa 3** | Comparação de quatro algoritmos em uma central de pedidos; código, relatório e dados | [Ver experimento](Atividade-Avaliativa-3/) |\n| **Grafos com NetworkX** | Rede social, grau, menor caminho, conectividade e recomendações | [Abrir atividade](Grafos-NetworkX/) |
 
 ## Em destaque: qual algoritmo ordena melhor os pedidos?
 
@@ -62,7 +62,7 @@ Para os notebooks da Atividade 2, abra os arquivos `.ipynb` no Google Colab, Jup
 - Busca sequencial e laços simples ou aninhados.
 - Bubble, Insertion, Selection e Quick Sort.
 - Contagem de comparações, trocas e movimentações.
-- Análise de complexidade e influência da organização inicial.
+- Análise de complexidade e influência da organização inicial.\n- Grafos, vértices, arestas, grau, caminhos e conectividade.
 
 ## Complexidade: um guia de leitura
 
